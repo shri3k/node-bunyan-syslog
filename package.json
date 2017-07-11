@@ -2,12 +2,12 @@
   "name": "@sportsbet/bunyan-syslog",
   "description": "Syslog Stream for Bunyan",
   "version": "0.3.2",
-  "author": "Mark Cavage",
+  "author": "Mark Cavage, Damon Smith <damon.smith@sportsbet.com.au>",
   "license": "MIT",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mcavage/node-bunyan-syslog.git"
+    "url": "https://github.com/sportsbet/node-bunyan-syslog"
   },
   "dependencies": {
     "assert-plus": "0.1.5",
