@@ -1,3 +1,11 @@
+# Fork
+
+This project was forked from github.com/mcavage/node-bunyan-syslog as that
+package seems to have died with it's last commit being a fix that we needed
+but was unpublished. We should go back to that repo if it comes alive again.
+
+# What it is
+
 bunyan-syslog is a stream for [bunyan](https://github.com/trentm/node-bunyan)
 that consumes `raw` records from bunyan and sends them to a syslog server.
 
